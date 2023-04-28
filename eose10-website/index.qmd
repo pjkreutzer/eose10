@@ -1,0 +1,124 @@
+---
+title: "Lecture 8 -- Solutions to Climate Change"
+author: <a href="https://pjkreutzer.github.io" target="_blank" rel="noopener">Jonas Kreutzer</a>
+date: last-modified
+date-format: long
+bibliography: ../eose10.bib
+csl: https://zotero.org/styles/apa?source=1
+---
+
+[These notes accompany the lecture "Solutions to Climate Change" held at Lund University on May 10th, 2023. You can find the slides at the bottom of this text.]{.text-default}
+
+:::{.callout-note}
+
+# Lecture Summary
+
+This lecture provides an overview of the history of solutions to climate change.
+We will discuss the COP system and group proposed solutions into technology and lifestyle changes.
+For each, we will examine what the most impactful measures would be 
+and potentially discuss some policy options for implementing them.
+
+
+:::
+
+:::{.callout-tip}
+
+## Learning Objectives
+
+1. Know different proposed lifestyle and technological solutions to climate change
+
+2. Be able to critically evaluate the most common solutions to climate change in regards to possible impact and feasibility
+
+3. Gain an overview of selected policy aimed at solving climate change at supra-national (COP) and national level
+
+:::
+
+
+
+Throughout this lecture, we will be focusing on mitigation of climate change.
+On the other end, there are also a range of options, technical and lifestyle, for adapting for climate change.
+We will not be discussing them today, which does not mean that they are less important, or unnecessary!
+
+::: {.callout .definiton}
+
+### Mitigation
+
+### Adaptation
+
+:::
+
+## Solutions relying on technology
+
+Think about a bathtub that is full of water.
+In order to stop it from overflowing you can either turn of the faucet, or open the drain at the bottom.
+These two ways are essentially the same options we have to mitigate climate change.
+In the climate bathtub, turning off the faucet means to stop adding new greenhouse gases to the atmosphere.
+Since our planet already uses other sinks for greenhouse gases, the drain of the climate bathtub is already open.
+Therefor, efforts to remove greenhouse gases from the atomosphere either focus on increasing the current drain, or on finding entirely new drains to open.
+
+Technological solutions for both the faucet and the drain have been proposed and we will look at the most relevant ones below.
+Let us start with finding additional drains.
+
+
+## Solutions relying on technology
+
+### Carbon Capture and Removal
+
+### Clean Energy
+
+### Clean Mobility
+
+### Clean Buildings
+
+### Clean Consumption
+
+#### Food
+
+## Solutions relying on lifestyles
+
+### Saving Energy
+
+### Changing Mobility
+
+### Changing Living
+
+### Changing Consumption
+
+#### Food
+
+The historical way of adapting to climate change has been migration.
+
+
+## Policy
+
+::: {.callout }
+### Definition Policy
+
+> TODO add policy definition
+
+:::
+
+### Supra-National
+
+### The Conference of Parties
+
+#### History
+
+#### Aims
+#### Milestones
+#### Criticism
+
+### National Policies
+#### Economic
+#### Regulatory
+#### Who drives climate change policy?
+
+European trend to see very active courts as organizing political support for stringent climate change policy p
+
+
+## Summary
+
+@otto2020SocialTippingDynamics identify key social tipping dynamics and the time scales over which they are thought to work by surveying experts on climate change.
+@fig-social_tipping shows the most relevant ones.
+
+![A complex web of social dynamics](https://www.pnas.org/cms/10.1073/pnas.1900577117/asset/599b11fe-266d-4126-a280-528c58083544/assets/graphic/pnas.1900577117fig03.jpeg){#fig-social_tipping}

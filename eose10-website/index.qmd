@@ -9,72 +9,241 @@ csl: https://zotero.org/styles/apa?source=1
 
 [These notes accompany the lecture "Solutions to Climate Change" held at Lund University on May 10th, 2023. You can find the slides at the bottom of this text.]{.text-default}
 
-:::{.callout-note}
-
+::: {.callout-note}
 # Lecture Summary
 
-This lecture provides an overview of the history of solutions to climate change.
-We will discuss the COP system and group proposed solutions into technology and lifestyle changes.
-For each, we will examine what the most impactful measures would be 
-and potentially discuss some policy options for implementing them.
-
-
+This lecture provides an overview of the history of solutions to climate change. We will discuss the COP system and group proposed solutions into technology and lifestyle changes. For each, we will examine what the most impactful measures would be and potentially discuss some policy options for implementing them.
 :::
 
-:::{.callout-tip}
-
+::: callout-tip
 ## Learning Objectives
 
-1. Know different proposed lifestyle and technological solutions to climate change
+1.  Be able to list and describe different proposed lifestyle and technological solutions to climate change
 
-2. Be able to critically evaluate the most common solutions to climate change in regards to possible impact and feasibility
+2.  Be able to critically evaluate the most common solutions to climate change in regards to possible impact and feasibility
 
-3. Gain an overview of selected policy aimed at solving climate change at supra-national (COP) and national level
+3.  Gain an overview of selected policy aimed at solving climate change at supra-national (COP) and national level
+:::
+
+Throughout this lecture, we will be focusing on *mitigation* of climate change. On the other end, there are also a range of options, technical and lifestyle, for *adapting* to climate change. We will not be discussing them today, which does not mean that they are less important, or unnecessary!
+
+::: {.callout-note icon="false"}
+## <i class="bi bi-journal-check"></i> Definition
+
+**Mitigation** means ... [@source].
+
+:::
+
+Recall that the central physical property that is important for life on this planet is the flow of energy [@ecologicaleconomics].
+
+The good news first, we have seen some progress in mitigating climate change.
+
+> The rate of global GHG emissions growth has slowed in recent years, from 2.1% yr–1 between 2000 and 2009, to 1.3% yr–1 in between 2010 and 2019. (TS.3) {2.2}
+<br>
+A growing number of countries have reduced both territorial carbon dioxide (CO2) and GHG emissions and consumption-based CO2 emissions in absolute terms for at least 10 years. These include mainly European countries, some of which have reduced production-based GHG emissions by a third or more since peaking. Some countries have achieved several years of rapid sustained CO2 reduction rates of 4% yr–1. (TS.3) {2.2
+[@pathak2022TechnicalSummary 51]
+
+
+
+
+
+::: {.callout-note icon="false"}
+## <i class="bi bi-journal-check"></i> Definition
+
+**CO~2~ equvivilent** methodological differences exist in calculating CO~2~-eq.
+Either this number is calculated as the sum of GHG and Aerosoles, which approximately cancel out the additional warming of non-CO_2 GHG, or the number only refers to the sum of all GHG expressed as the Global Warming Potential [@ipcc6 summary policy makers].
 
 :::
 
 
+Think about a bathtub that is full of water. In order to stop it from overflowing you can either turn of the faucet, or open the drain at the bottom. These two ways are essentially the same options we have to mitigate climate change. In the climate bathtub, turning off the faucet means to stop adding new greenhouse gases to the atmosphere. Since our planet already uses other sinks for greenhouse gases, the drain of the climate bathtub is already open. Therefor, efforts to remove greenhouse gases from the atomosphere either focus on increasing the current drain, or on finding entirely new drains to open.
 
-Throughout this lecture, we will be focusing on mitigation of climate change.
-On the other end, there are also a range of options, technical and lifestyle, for adapting for climate change.
-We will not be discussing them today, which does not mean that they are less important, or unnecessary!
+<!-- https://www.ipcc.ch/report/infographic/worlds-apart/ -->
 
-::: {.callout .definiton}
+## Solutions relying on technology
 
-### Mitigation
+Technological solutions for both the faucet and the drain have been proposed and we will look at the most relevant ones below. Let us start with finding additional drains.
 
-### Adaptation
+### Carbon Dioxide Removal (CDR)
+
+> Carbon Dioxide Removal (CDR) is necessary to achieve net zero CO2 and GHG emissions both globally and nationally, counterbalancing ‘hard-to-abate’ residual emissions. CDR is also an essential element of scenarios that limit warming to 1.5°C or below 2°C (>67%) by 2100, regardless of whether global emissions reach near zero, net zero or net negative levels [@pathak2022TechnicalSummary 114].
+
+A lot to unpack here.
+Net zero refers to the balance between the amount of greenhouse gas emissions produced and the amount removed from the atmosphere, so that the overall emissions released into the atmosphere are zero.
+Hard-to-abate residual emissions mean the emissions that cannot be fully eliminated by current mitigation technologies.
+The scenarios that are mentioned are the IPCC's way of expressing different possible pathways of future greenhouse gas emissions, which take into account various factors such as socio-economic development, energy use, and policy measures.
+
+Using scenarios like this can help provide insights into what might happen, when reality is too complex to predict what will happen.
+This means that they are hypothetical and intended to explore and illustrate different possible futures based on a range of assumptions about factors such as population growth, economic development, and technology use. 
+The scenarios range from very low to very high emissions and use a range of assumptions that may be grouped from reasonable to speculative [@warszawski2021AllOptionsNot].
+
+Carbon Dioxide Removal seeks to remove carbon from the atmosphere and store it in another carbon sink.
+
+::: {.callout-warning icon="false"}
+## <i class="bi bi-book"></i> Recall Question
+
+What are the carbon sinks?
+
+::::{.callout-tip collapse="true"}
+The IPCC report states the sinks for carbon removed from the atmosphere (which is also a sink) as geological, terrestrial, or ocean reservoirs as well as products [@pathak2022TechnicalSummary 114]
+::::
+:::
+
+@pathak2022TechnicalSummary list various options for Carbon Dioxide Removal ranging from ramping up natural carbon sequestration, such as aforestration, to highly technical solutions such as direct air capture or electrochemical CO~2~ removal from ocean water.
+
+But there are a number of important aspects to note about Carbon Dioxide Removal.
+
+Nature based methods for Carbon Dioxide Removal are potentially vulnerable to climate change outcomes, for example wetlands might dry up under droughts or increasing forest fires.
+They might also increase non-climate pressures on ecosystems, for example the amount of nitrogen in soils and nitrous oxide in the atmosphere. 
+Additionally, there might be potential unintended consequences such as increasing global emperatures through a lower albedo, because forested land absorbes more of the suns energy than snow covered land due to the darker surface area.
+This might also impact water cycles, @portmann2022GlobalForestationDeforestation argue.
+
+Technological Carbon Dioxide Removal methods require energy.
+Energy that needs to come from a carbon free source.
+Such energy is, however, needed elsewhere to reduce the carbon intensity of our energy usage.
+The carbon removed also needs to be stored somewhere.
+Most commonly geological reservoirs are proposed for this.
+But research on the acceptability and feasibility of this at scale is lacking.
+
+For a list and comparision of Carbon Dioxide Removal options, their potentials and risk you can consult the table on pages 115-116 of @pathak2022TechnicalSummary.
+While Carbon Dixoide Removal may play a crucial role in the IPCC's scenarios that limit warming to 1.5 and many of the scenarios that limit warming to under 2 degrees Celsius, their successful emplyoment is uncertain [@pathak2022TechnicalSummary 113].
+
+It appears that the drain of our climate bathtub is largely set.
+If we want to stop the bathtub from overflowing, let us then turn to actions we can take to slow the inflow.
+
+We will review the highest impact solutions for each of the biggest sectors.
+
+::: {.callout-warning icon="false"}
+## <i class="bi bi-book"></i> Recall Question
+
+Which sectors are the biggest contributers to climate change?
 
 :::
 
-## Solutions relying on technology
-
-Think about a bathtub that is full of water.
-In order to stop it from overflowing you can either turn of the faucet, or open the drain at the bottom.
-These two ways are essentially the same options we have to mitigate climate change.
-In the climate bathtub, turning off the faucet means to stop adding new greenhouse gases to the atmosphere.
-Since our planet already uses other sinks for greenhouse gases, the drain of the climate bathtub is already open.
-Therefor, efforts to remove greenhouse gases from the atomosphere either focus on increasing the current drain, or on finding entirely new drains to open.
-
-Technological solutions for both the faucet and the drain have been proposed and we will look at the most relevant ones below.
-Let us start with finding additional drains.
-
-
-## Solutions relying on technology
-
-### Carbon Capture and Removal
+<!--  One approach is to dramatically reduce and electrify energy demand for transportation and manufacturing to levels that make residual non-electric fuel use negligible or replaceable by limited amounts of electrolytic hydrogen. Such an approach is presented in a first-of-its kind low-energy-demand scenario (Grubler et al., 2018)
+which is part of this assessment. Other approaches rely less on energy demand reductions, but employ cheap renewable electricity to push the boundaries of electrification in the industry and transport sectors (Breyer et al., 2017; Jacobson, 2017)
+. In addition, these approaches deploy renewable-based Power-2-X (read: Power to “x”) technologies to substitute residual fossil-fuel use (Brynolf et al., 2018)
+. An important element of carbon-neutral Power-2-X applications is the combination of hydrogen generated from renewable electricity and CO2 captured from the atmosphere (Zeman and Keith, 2008)
+. Alternatively, algae are considered as a bioenergy source with more limited implications for land use and agricultural systems than energy crops (Williams and Laurens, 2010; Walsh et al., 2016; Greene et al., 2017)
+.
+https://www.ipcc.ch/sr15/chapter/chapter-2/
+ -->
 
 ### Clean Energy
 
-### Clean Mobility
+Energy accounts for about one third 
+<!-- TODO add precise % -->
+of global emissions.
+Switching to renewable energy holds large potential to reduce emissions.
 
-### Clean Buildings
+For this to happen, we need to reduce the amount of energy produced from fossil fuels, starting with the most CO~2~ intensive first.
 
-### Clean Consumption
+::: {.callout-note icon="false"}
+## <i class="bi bi-journal-check"></i> Definition
 
-#### Food
+**Carbon Dioxide Intensity** is a measure of CO~2~ emitted per unit 
+<!-- TODO what unit of energy -->
+of energy.
+The higher the intensity, the worse the energy carrier is for the climate.
+:::
 
-## Solutions relying on lifestyles
+### Industry
+
+###  Mobility
+
+###  Buildings
+
+Perhaps surprisingly, the @ipcc6 identifies the most important area of action in cities as designing cities that reduce the need to commute and enable more active ways of transport.
+
+Only later do they focus on mitigating the emissions that arise from a buildings construction and usage.
+
+### Agriculture and Forests
+
+8 - 14 Gigatons saving potential until 2050.
+
+But:
+
+> Emissions reductions in CO2 from fossil fuels and industrial processes (CO2-FFI), due to improvements in energy intensity of GDP and carbon intensity of energy, have been less than emissions increases from rising global activity levels in industry, energy supply, transport, agriculture and buildings. (high confidence) {2.2, 2.4, 6.3, 7.2, 8.3, 9.3, 10.1, 11.2} [@ipcc chap 3 policy summary p. 8]
+
+### Summary of technological solutions
+
+Perhaps a good rule of thumb is to replace what uses fossil fuels immediately.
+It is better to buy something that is much more efficient -- or ideally does not emit any GHG at all -- in use, when it comes to things that continously consume energy.
+Do switch that fossil heating source for a heatpump that runs on electricity.
+
+On the other hand, things that consume a lot of energy once but where gains in efficiency are minimal are best to be used for longer.
+Keep your phone and laptop for as long as possible, as the majority of their energy is spent on producing the product.
+
+
+## Lifestyle Solutions
+
+The sixth IPCC report is the first to include a dedicated section to demand and lifestyle changes to mitigate climate change.
+And that despite widespread agreement about the importance of such measures.
+
+Before discussing possible lifestyle solutions, we must establish whose lifestyles need to change in order to climate change.
+To a certain extent, all life leaves an impact on its environment.
+
+A literature strand has attempted to identify personal carbon budgets, which are estimated to be 2 tonnes CO~2~ per person per year.
+These budgets are based on the expected population in the next XX years and the remaining global carbon budget to limit warming to under 1.5 degrees Celsius.
+<!-- TODO fact check and source -->
+The implications of this is that some humans are using more than their share while others are currently using less then these two tons.
+
+If you are interested in getting an impression of your own carbon footprint, a number of calculators exist online.
+While these calculators make a number of assumptions, for example about the average carbon intensity of the energy mix, serious options do exist for various countries.
+For Sweden you may find some general insights at [link name](link).
+<!-- TODO find trustworthy carbon footprint calc -->
+
+
+
+::: {.callout-warning icon="false"}
+## <i class="bi bi-book"></i> Reading Question
+
+Who do you think the "polluter elite" are?
+
+Are their lifestyles, or aspects of the lifestyles, something you find desirable?
+Why or why not?
+
+Do you think others find them desirable?
+
+If you do find them desirable, is it because:
+
+1. status,
+2. safety,
+3. accomplishment,
+4. jealousy,
+5. other,
+
+reasons?
+
+:::
+
+::: {.callout-warning icon="false"}
+## <i class="bi bi-book"></i> Reading Question
+
+@otto2020SocialTippingDynamics use the concept of tipping points for social phenomena.
+What are tipping points?
+Do you think they can be applied to social phenomena?
+
+:::
+
+::: {.callout-warning icon="false"}
+## <i class="bi bi-book"></i> Reading Question
+
+Often times you hear people debate if consumers or producers should take responsibility for reducing carbon emissions.
+What do you think about this debate, motivate your answer with the criticism of @newell2021ScalingBehaviourChange that behavior is embedded in a social context.
+
+:::
+
+
+
+::: {.callout-warning icon="false"}
+## <i class="bi bi-book"></i> Reading Question
+
+After reading @otto2020SocialTippingDynamics, what actions do you think you can do that will work towards social tipping points?
+List three actions, one that you can take today, one that you can take over the next month and one that you can take over the next year.
+Note that actions do not need to only be changing your own behavior.
+
+:::
 
 ### Saving Energy
 
@@ -88,37 +257,53 @@ Let us start with finding additional drains.
 
 The historical way of adapting to climate change has been migration.
 
+### Summary of Lifestyle Solutions
+
+Keeping track of the impacts of behavior changes is impossible for any individual.
+Additionally, often individuals cannot make better choices, even if they want to, do to social contexts.
+
+@creutzig2022DemandsideSolutionsClimate propose a useful framework for evaluating mitigation solutions.
+
+**Avoid, Shift, Improve** 
+
+<!--  Here, we generalize 'avoid' to all mitigation options that reduce wasteful energy consumption by redesigning service provisioning systems; 'shift' to the switch to already existing competitive low-carbon technologies and service provisioning systems; and 'improve' to improvements in e ciency in existing technologies where adoption by end users plays an important role.
+@creutzig2022DemandsideSolutionsClimate [] -->
 
 ## Policy
 
-::: {.callout }
-### Definition Policy
+Half of the worlds emissions are covered by laws and policies around the globe [@ippc video].
 
-> TODO add policy definition
+Other policy ideas exist as well.
+Recall the idea of sustainable carbon budgets from above.
+@fusonerini2021PersonalCarbonAllowances call for policy that uses this notion to implement personal carbon allowances
 
-:::
 
 ### Supra-National
 
-### The Conference of Parties
+### The UNFCCC
 
-#### History
+For an interactive timeline of the United Nations Framework Convention on Climate Change check out their [website](https://unfccc.int/timeline/).
 
-#### Aims
-#### Milestones
-#### Criticism
+
+
 
 ### National Policies
+
 #### Economic
+
 #### Regulatory
+
 #### Who drives climate change policy?
 
-European trend to see very active courts as organizing political support for stringent climate change policy p
-
+Lately there has been an increase in courts driving climate and other environmental issues.
+Groups of activists as well as individuals have been suing both governments and private entities.
+For example, Saul Luciano Lliuya is suing the German energy company RWE for damages to his house and home village in Peru due to floods from a glacial lake [@source].
+In Sweden, a group of youth activists is suing the Swedish government for lacking processes and ambitions to mitigate climate change, known as the Aurora case [@source].
+These examples highlight that courts are being called upon both by individuals and collectives targeting private and government actors.
+The [Climate Change Litigation Databases](http://climatecasechart.com/) collects past and ongoing lawsuits, together with a host of relevant documents.
 
 ## Summary
 
-@otto2020SocialTippingDynamics identify key social tipping dynamics and the time scales over which they are thought to work by surveying experts on climate change.
-@fig-social_tipping shows the most relevant ones.
+@otto2020SocialTippingDynamics identify key social tipping dynamics and the time scales over which they are thought to work by surveying experts on climate change. @fig-social_tipping shows the most relevant ones.
 
 ![A complex web of social dynamics](https://www.pnas.org/cms/10.1073/pnas.1900577117/asset/599b11fe-266d-4126-a280-528c58083544/assets/graphic/pnas.1900577117fig03.jpeg){#fig-social_tipping}

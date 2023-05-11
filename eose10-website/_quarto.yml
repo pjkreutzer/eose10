@@ -4,6 +4,7 @@ project:
 website:
   title: "Lecture Notes -- EOSE10 Lecutre 8"
   navbar: false
+  page-footer: "Disclaimer, parts of these notes were compiled with the help of ChatGPT."
 
 format:
   html:

@@ -21,7 +21,7 @@ format:
 
 ## Carbon Dioxide Removal (CDR)
 
-![](../assets/cdr.png)
+![](../assets/cdr.png){fig-align="center"}
 
 [@boehm202310BigFindings]{.slide-cite}
 
@@ -45,7 +45,7 @@ Driver of climate change -> burning fossil fuels, deforestration, other GHG
 
 ### Food Systems
 
->**Emerging food technologies such as [cellular fermentation, cultured meat, plant-based alternatives to animal-based food products, and controlled environment agriculture]{.fragment .highlight-current-blue}, can bring substantial reduction in direct GHG emissions from food production (limited evidence, high agreement).** These technologies have lower land, water, and nutrient footprints, and address concerns over animal welfare. Realising the full mitigation potential depends on access to low-carbon energy as some emerging technologies are relatively more energy intensive.
+>[**Emerging food technologies such as [cellular fermentation, cultured meat, plant-based alternatives to animal-based food products, and controlled environment agriculture]{.fragment .highlight-current-blue}, can bring substantial reduction in direct GHG emissions from food production (limited evidence, high agreement).** These technologies have lower land, water, and nutrient footprints, and address concerns over animal welfare. Realising the full mitigation potential depends on access to low-carbon energy as some emerging technologies are relatively more energy intensive.]{.text-default}
 
 [@pathak2022TechnicalSummary 113]{.slide-cite}
 
@@ -62,8 +62,6 @@ Driver of climate change -> burning fossil fuels, deforestration, other GHG
 *** 
 
 ### Buildings 
-
-
 
 [design for evolving needs with what already exists
 ]{.fragment}
@@ -91,7 +89,7 @@ Driver of climate change -> burning fossil fuels, deforestration, other GHG
 
 ### Industry
 
-> **Net zero CO2 industrial-sector emissions are possible but challenging (high confidence).** [Energy efficiency]{.fragment .highlight-current-blue} will continue to be important. [Reduced materials demand, material efficiency, and circular economy solutions]{.fragment .highlight-current-blue} can reduce the need for primary production.
+> [**Net zero CO2 industrial-sector emissions are possible but challenging (high confidence).** [Energy efficiency]{.fragment .highlight-current-blue} will continue to be important. [Reduced materials demand, material efficiency, and circular economy solutions]{.fragment .highlight-current-blue} can reduce the need for primary production.]{.text-default}
 
 [@pathak2022TechnicalSummary 104]{.slide-cite}
 
@@ -111,23 +109,11 @@ Figure 5.7, 11.2, Box 11.2, 11.3, 11.4, 11.5.2, 11.6}
 
 ## Clean Energy
 
->Reducing GHG emissions across the full energy sector requires major transitions, including a substantial reduction in overall fossil fuel use, the deployment of low-emission energy sources, switching to alternative energy carriers, and energy efficiency and conservation. The continued installation of unabated fossil fuel54 infrastructure will ‘lock-in’ GHG emissions. [...]
+>[Reducing GHG emissions across the full energy sector requires major transitions, including a substantial [reduction in overall fossil fuel use, the deployment of low-emission energy sources, switching to alternative energy carriers, and energy efficiency and conservation]{.fragment .highlight-current-blue}. The continued installation of unabated fossil fuel infrastructure will ‘lock-in’ GHG emissions. [...]]{.text-default}
 
 [@shukla2022SummaryPolicymakers 28]{.slide-cite}
 
-##
-
-![](../assets/ipcc-figures/SPM.3.png){fig-alt="Unit cost reductions and use in some rapidly changing mitigation technologies. The top panel shows global costs per unit of energy (USD per MWh) for some rapidly changing mitigation technologies. Solid blue lines indicate average unit cost in each year. Light blue shaded areas show the range
-between the 5th and 95th percentiles in each year. Grey shading indicates the range of unit costs for new fossil fuel (coal and gas) power in 2020 (corresponding to USD55–148 per MWh). In 2020, the levelised costs of energy (LCOE) of the four renewable energy technologies could compete with fossil fuels in many places. For batteries, costs shown are for 1 kWh of battery storage capacity; for the others, costs are LCOE, which includes installation, capital, operations, and maintenance costs per MWh of electricity produced. The literature uses LCOE because it allows consistent comparisons of cost trends across a diverse set of energy technologies to be made. However, it does not include the costs of grid integration or climate impacts. Further, LCOE does not take into account other environmental and social externalities that may modify the overall (monetary and non-monetary) costs of technologies and alter their deployment. The bottom panel shows cumulative global adoption for each technology, in GW of installed capacity for renewable energy and in millions of vehicles for battery-electric vehicles. A vertical dashed line is placed in 2010 to indicate the change since AR5. Shares of electricity produced and share of passenger vehicle fleet are indicated in text for 2020 based on provisional data, i.e., percentage of total electricity production (for PV, onshore wind, offshore wind, CSP) and of total stock of passenger vehicles (for EVs). The electricity production share reflects different capacity factors; for example, for the same amount of installed capacity, wind produces about twice as much electricity as solar PV. {2.5, 6.4} Renewable energy and battery technologies were selected as illustrative examples because they have recently shown rapid changes in costs and adoption, and because consistent data are available. Other mitigation options assessed in the report are not included as they do not meet these criteria [@ipccps 12]."}
-
-:::{.notes}
-(i) growth in the share of energy derived from low-carbon-emitting sources (including renewables, nuclear and fossil fuel with CCS) and a decline in the overall share of fossil fuels without CCS (Section 2.4.2.1), (ii) rapid decline in the carbon intensity of electricity generation simultaneous with further electrification of energy end-use (Section 2.4.2.2), and (iii) the growth in the use of CCS applied to fossil and biomass carbon in most 1.5°C pathways (Section 2.4.2.3).
-
-Nuclear power increases its share in most 1.5°C pathways with no or limited overshoot by 2050, but in some pathways both the absolute capacity and share of power from nuclear generators decrease (Table 2.15). There are large differences in nuclear power between models and across pathways (Kim et al., 2014; Rogelj et al., 2018)
-. One of the reasons for this variation is that the future deployment of nuclear can be constrained by societal preferences assumed in narratives underlying the pathways (O’Neill et al., 2017; van Vuuren et al., 2017b)
-. Some 1.5°C pathways with no or limited overshoot no longer see a role for nuclear fission by the end of the century, while others project about 95 EJ yr−1 of nuclear power in 2100 (Figure 2.15).
-:::
-
+# break {.r-fit-text}
 
 ## Summary {visibility="hidden"}
 
@@ -156,12 +142,11 @@ in industry, energy supply, transport, agriculture and buildings. (high confiden
 
 ![](../assets/country_carbon_footprints.png)
 
-[@akenji2021DegreeLifestylesFair]{.slide-cite}
+[@akenji2021DegreeLifestylesFair 43]{.slide-cite}
 
 ## {data-menu-title="Lifestyle Impacts"}
 
 ![](https://www.kimnicholas.com/uploads/2/5/7/6/25766487/fig1full.jpg)
-
 
 ## Consumer or producer?
 
@@ -176,12 +161,14 @@ What do you think about this debate, motivate your answer with the criticism of 
 
 ##
 
-![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*ihYvXucDDCKIDQtmWQtb-Q.png){fig-alt="A stacked area chart. The title reads: The richest 1% are responsible for double the carbon emissions of the poorest 50%. The figure then displays the shares of the richest 1 and 10, 40 and poorest 50%" style="align:center;"}
+![](../assets/carbon_inequality.png){fig-alt="A stacked area chart. The title reads: The richest 1% are responsible for double the carbon emissions of the poorest 50%. The figure then displays the shares of the richest 1 and 10, 40 and poorest 50%" fig-align="center"}
+
+[@gore2020ConfrontingCarbonInequality 3]{.slide-cite}
 
 
-## 
+## {.smaller}
 
-::: {.callout-warning icon="false" .smaller}
+::: {.callout-warning icon="false"}
 ## <i class="bi bi-book"></i> Reading Question
 
 Who do you think the "polluter elite" are?
@@ -204,6 +191,8 @@ reasons?
 
 :::
 
+
+
 # {data-menu-title="Policy"}
 
 >[... it is becoming increasingly apparent that far-reaching changes in lifestyles will be required, alongside [shifts in policy]{.text-primary}, service provision and technological innovation, if we are to avoid dangerous levels of global heating, ...]{.text-default}
@@ -219,7 +208,7 @@ reasons?
 
 ## {data-menu-title="Criticism"}
 
-![](../assets/climate_stripes.jpg){width="50%" fig-alt="Composite graph of the climate stripes, showing increasing temperature and global climate conferences"}
+![](../assets/climate_stripes.jpg){width="50%" fig-alt="Composite graph of the climate stripes, showing increasing temperature and global climate conferences" fig-align="center"}
 
 ## selected policy options {.smaller}
 
@@ -280,13 +269,13 @@ Direct result of Paris agreement, tied to advances in attribution science (linki
 
 # Summary
 
-![](https://www.pnas.org/cms/10.1073/pnas.1900577117/asset/599b11fe-266d-4126-a280-528c58083544/assets/graphic/pnas.1900577117fig03.jpeg){#fig-social_tipping style="justify-content:center;"}
+![](https://www.pnas.org/cms/10.1073/pnas.1900577117/asset/599b11fe-266d-4126-a280-528c58083544/assets/graphic/pnas.1900577117fig03.jpeg){#fig-social_tipping fig-align="center"}
 
 [@otto2020SocialTippingDynamics]{.slide-cite}
 
 ## Avoid Carbon Tunnel Vision
 
-![](https://www.sei.org/wp-content/uploads/2022/03/carbon-tunnel-vision.png)
+![](https://www.sei.org/wp-content/uploads/2022/03/carbon-tunnel-vision.png){fig-align="center"}
 
 ## References
 
@@ -294,3 +283,18 @@ Direct result of Paris agreement, tied to advances in attribution science (linki
 :::
 
 ## Appendix
+
+
+
+##
+
+![](../assets/ipcc-figures/SPM.3.png){fig-alt="Unit cost reductions and use in some rapidly changing mitigation technologies. The top panel shows global costs per unit of energy (USD per MWh) for some rapidly changing mitigation technologies. Solid blue lines indicate average unit cost in each year. Light blue shaded areas show the range
+between the 5th and 95th percentiles in each year. Grey shading indicates the range of unit costs for new fossil fuel (coal and gas) power in 2020 (corresponding to USD55–148 per MWh). In 2020, the levelised costs of energy (LCOE) of the four renewable energy technologies could compete with fossil fuels in many places. For batteries, costs shown are for 1 kWh of battery storage capacity; for the others, costs are LCOE, which includes installation, capital, operations, and maintenance costs per MWh of electricity produced. The literature uses LCOE because it allows consistent comparisons of cost trends across a diverse set of energy technologies to be made. However, it does not include the costs of grid integration or climate impacts. Further, LCOE does not take into account other environmental and social externalities that may modify the overall (monetary and non-monetary) costs of technologies and alter their deployment. The bottom panel shows cumulative global adoption for each technology, in GW of installed capacity for renewable energy and in millions of vehicles for battery-electric vehicles. A vertical dashed line is placed in 2010 to indicate the change since AR5. Shares of electricity produced and share of passenger vehicle fleet are indicated in text for 2020 based on provisional data, i.e., percentage of total electricity production (for PV, onshore wind, offshore wind, CSP) and of total stock of passenger vehicles (for EVs). The electricity production share reflects different capacity factors; for example, for the same amount of installed capacity, wind produces about twice as much electricity as solar PV. {2.5, 6.4} Renewable energy and battery technologies were selected as illustrative examples because they have recently shown rapid changes in costs and adoption, and because consistent data are available. Other mitigation options assessed in the report are not included as they do not meet these criteria [@ipccps 12]."}
+
+:::{.notes}
+(i) growth in the share of energy derived from low-carbon-emitting sources (including renewables, nuclear and fossil fuel with CCS) and a decline in the overall share of fossil fuels without CCS (Section 2.4.2.1), (ii) rapid decline in the carbon intensity of electricity generation simultaneous with further electrification of energy end-use (Section 2.4.2.2), and (iii) the growth in the use of CCS applied to fossil and biomass carbon in most 1.5°C pathways (Section 2.4.2.3).
+
+Nuclear power increases its share in most 1.5°C pathways with no or limited overshoot by 2050, but in some pathways both the absolute capacity and share of power from nuclear generators decrease (Table 2.15). There are large differences in nuclear power between models and across pathways (Kim et al., 2014; Rogelj et al., 2018)
+. One of the reasons for this variation is that the future deployment of nuclear can be constrained by societal preferences assumed in narratives underlying the pathways (O’Neill et al., 2017; van Vuuren et al., 2017b)
+. Some 1.5°C pathways with no or limited overshoot no longer see a role for nuclear fission by the end of the century, while others project about 95 EJ yr−1 of nuclear power in 2100 (Figure 2.15).
+:::

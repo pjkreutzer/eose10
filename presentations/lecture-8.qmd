@@ -6,9 +6,8 @@ date-format: long
 bibliography: ../eose10.bib
 csl: https://zotero.org/styles/apa?source=1
 format:
-    revealjs:
+    pjk_theme-revealjs:
         embed-resources: true
-        theme: [../assets/reveal_me.scss]
         revealjs-plugins:
             - attribution
 ---
@@ -41,7 +40,7 @@ Driver of climate change -> burning fossil fuels, deforestration, other GHG
 
 :::
 
-***
+****
 
 ### Food Systems
 
@@ -49,7 +48,7 @@ Driver of climate change -> burning fossil fuels, deforestration, other GHG
 
 [@pathak2022TechnicalSummary 113]{.slide-cite}
 
-***
+****
 
 ###  Mobility
 
@@ -59,7 +58,7 @@ Driver of climate change -> burning fossil fuels, deforestration, other GHG
 
 [@shukla2022SummaryPolicymakers 32]{.slide-cite}
 
-*** 
+****
 
 ### Buildings 
 
@@ -113,7 +112,7 @@ Figure 5.7, 11.2, Box 11.2, 11.3, 11.4, 11.5.2, 11.6}
 
 [@shukla2022SummaryPolicymakers 28]{.slide-cite}
 
-# break {.r-fit-text}
+# Break {.r-fit-text}
 
 ## Summary {visibility="hidden"}
 
@@ -203,16 +202,16 @@ reasons?
 
 [@WhatUnitedNations np]{.slide-cite}
 
-[Biggest achievment: The legally binding Paris Agreement 2015
+[Biggest achievement: The legally binding Paris Agreement 2015
 ]{.fragment}
 
 ## {data-menu-title="Criticism"}
 
 ![](../assets/climate_stripes.jpg){width="50%" fig-alt="Composite graph of the climate stripes, showing increasing temperature and global climate conferences" fig-align="center"}
 
-## selected policy options {.smaller}
+## Selected Policy Options {.smaller}
 
-### Adressing market failures
+### Addressing Market Failures
 
 Taxes, 
 
@@ -239,9 +238,7 @@ Doughnut Economy
 
 ## {data-menu-title="Avoid Shift Improve"}
 
-![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41558-021-01219-y/MediaObjects/41558_2021_1219_Fig1_HTML.png?as=webp){fig-alt="We reviewed studies estimating demand-side mitigation potentials associated with demand-side GHG ASI emission reduction strategies, and summarized the results as central values and full ranges (minimal to maximal potential, black error bars). Demand-side mitigation strategies technically could provide reductions of 78% (6.8 GtCO2e), 62% (5.8 GtCO2e), 41% (7.3 GtCO2e) and 41% (6.3 GtCO2e) in the buildings, transport, food and industry sectors, respectively (black dotted arrows). Urban strategies are merged with buildings and land transport strategies and are presented under ‘human settlements’ (red-dashed-line box). Transport demand-side mitigation strategies and potentials are grouped as land transport, shipping and aviation (purple-dashed-line box). To be able to give an approximation for the full potential across sectors, we ignore interaction effects between the three categories. Mitigation potentials are estimated against 2050 values of the IEA’s stated policy scenario58 and baseline assumption from the IPCC’s SRCCL for food. Data sources and explanations are given in Table 1 and Supplementary Table"}
 
-[@creutzig2022DemandsideSolutionsClimate 38]{.slide-cite}
 
 
 ## Who drives climate change policy?
@@ -282,11 +279,10 @@ Direct result of Paris agreement, tied to advances in attribution science (linki
 ::: {#refs}
 :::
 
-## Appendix
+## Appendix {.appendix}
 
 
-
-##
+## Unit Cost of Mitigation Technologies Rapidly Declining
 
 ![](../assets/ipcc-figures/SPM.3.png){fig-alt="Unit cost reductions and use in some rapidly changing mitigation technologies. The top panel shows global costs per unit of energy (USD per MWh) for some rapidly changing mitigation technologies. Solid blue lines indicate average unit cost in each year. Light blue shaded areas show the range
 between the 5th and 95th percentiles in each year. Grey shading indicates the range of unit costs for new fossil fuel (coal and gas) power in 2020 (corresponding to USD55–148 per MWh). In 2020, the levelised costs of energy (LCOE) of the four renewable energy technologies could compete with fossil fuels in many places. For batteries, costs shown are for 1 kWh of battery storage capacity; for the others, costs are LCOE, which includes installation, capital, operations, and maintenance costs per MWh of electricity produced. The literature uses LCOE because it allows consistent comparisons of cost trends across a diverse set of energy technologies to be made. However, it does not include the costs of grid integration or climate impacts. Further, LCOE does not take into account other environmental and social externalities that may modify the overall (monetary and non-monetary) costs of technologies and alter their deployment. The bottom panel shows cumulative global adoption for each technology, in GW of installed capacity for renewable energy and in millions of vehicles for battery-electric vehicles. A vertical dashed line is placed in 2010 to indicate the change since AR5. Shares of electricity produced and share of passenger vehicle fleet are indicated in text for 2020 based on provisional data, i.e., percentage of total electricity production (for PV, onshore wind, offshore wind, CSP) and of total stock of passenger vehicles (for EVs). The electricity production share reflects different capacity factors; for example, for the same amount of installed capacity, wind produces about twice as much electricity as solar PV. {2.5, 6.4} Renewable energy and battery technologies were selected as illustrative examples because they have recently shown rapid changes in costs and adoption, and because consistent data are available. Other mitigation options assessed in the report are not included as they do not meet these criteria [@ipccps 12]."}

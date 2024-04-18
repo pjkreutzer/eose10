@@ -8,9 +8,7 @@ website:
   page-footer: "Disclaimer, parts of these notes were compiled with the help of ChatGPT."
 
 format:
-  html:
-    theme: [litera, ../assets/me.scss]
+  pjk_theme-html:
     toc: true
-
 
 

@@ -8,7 +8,7 @@ csl: https://zotero.org/styles/apa?source=1
 
 ---
 
-[These notes accompany the lecture "Solutions to Climate Change" held at Lund University on May 10th, 2023.
+[These notes accompany the lecture "Solutions to Climate Change" held at Lund University on April 19th, 2024.
 They are intended to facilitate learning, but should not be cited in any work.
 You can find the slides at the bottom of this text.]{.text-default}
 
@@ -138,7 +138,7 @@ It states:
 
 The report also stresses that in order to realize the potential, changes across the entire supply chain are needed, including waste management.
 This includes changes in growing of food, processing of food, its transport and disposal.
-The technologies involved range from digitalization or different coolants to gene technology [@pathak2022TechnicalSummary 111-112].
+The technologies involved range from digitization or different coolants to gene technology [@pathak2022TechnicalSummary 111-112].
 
 ### Mobility
 
@@ -243,7 +243,7 @@ Countries like Canada have almost three times higher footprints related to food 
 
 ### Lifestyle Change Within Societal Context
 
-@fig-country_targets hopefully also illustrates that our societal context plays a big role in how individual change can unfold.
+@fig-country_targets also illustrates that our societal context plays a big role in how individual change can unfold.
 
 The assigned reading for this lecture focuses strongly on this point as well.
 

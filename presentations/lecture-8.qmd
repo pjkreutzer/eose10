@@ -1,5 +1,5 @@
 ---
-title: "Lecture 8 -- Solutions to Climate Change"
+title: "Lecture 6 -- Solutions to Climate Change"
 author: <a href="https://pjkreutzer.github.io" target="_blank" rel="noopener">Jonas Kreutzer</a>
 date: last-modified
 date-format: long

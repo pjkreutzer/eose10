@@ -3,7 +3,7 @@ project:
   output-dir: ../docs
 
 website:
-  title: "Lecture Notes -- EOSE10 Lecutre 8"
+  title: "Lecture Notes -- Climate Change Mitigation"
   navbar: false
   page-footer: "Disclaimer, parts of these notes were compiled with the help of ChatGPT."
 

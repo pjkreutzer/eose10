@@ -477,6 +477,6 @@ But the possibility for it is large.
 
 ::::{.container}
 
-<iframe class="responsive-iframe" src="assets/lecture-8.html"></iframe>
+<iframe class="responsive-iframe" src="/presentations/lecture.html"></iframe>
 
 ::::

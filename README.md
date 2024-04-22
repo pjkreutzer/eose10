@@ -1,4 +1,4 @@
-# Teaching Material For EOSE10 Global Sustainability at Lund University VT 2023
+# Teaching Material For EOSE10 Global Sustainability at Lund University
 
 This repo contains the teaching materials, presentations and notes for my teaching in the Bachelors Course EOSE10 Global Sustainability at Lund University VT 2023.
 

@@ -1,0 +1,296 @@
+---
+title: "Climate Change Mitigation"
+author: <a href="https://pjkreutzer.github.io" target="_blank" rel="noopener">Jonas Kreutzer</a>
+date: last-modified
+date-format: long
+bibliography: ../eose10.bib
+csl: https://zotero.org/styles/apa?source=1
+format:
+    pjk_theme-revealjs:
+        embed-resources: true
+        revealjs-plugins:
+            - attribution
+---
+
+# {data-menu-title="Technological Solutions"}
+
+>[... it is becoming increasingly apparent that far-reaching changes in lifestyles will be required, alongside shifts in policy, service provision and [technological innovation]{.text-primary}, if we are to avoid dangerous levels of global heating, ...]{.text-default}
+
+[@newell2021ScalingBehaviourChange 1]{.slide-cite}
+
+## Carbon Dioxide Removal (CDR)
+
+![](../assets/cdr.png){fig-align="center"}
+
+[@boehm202310BigFindings]{.slide-cite}
+
+:::{.notes}
+unproven at scale, energy intensive, storage problems
+
+:::
+
+## [Preventing Carbon Emissions]{.r-fit-text style="align-content: center"}
+
+:::{.notes}
+
+Recall questions:
+
+Biggest sectors -> transport, industry, buildings, agriculture
+Driver of climate change -> burning fossil fuels, deforestration, other GHG
+
+:::
+
+****
+
+### Food Systems
+
+>[**Emerging food technologies such as [cellular fermentation, cultured meat, plant-based alternatives to animal-based food products, and controlled environment agriculture]{.fragment .highlight-current-blue}, can bring substantial reduction in direct GHG emissions from food production (limited evidence, high agreement).** These technologies have lower land, water, and nutrient footprints, and address concerns over animal welfare. Realising the full mitigation potential depends on access to low-carbon energy as some emerging technologies are relatively more energy intensive.]{.text-default}
+
+[@pathak2022TechnicalSummary 113]{.slide-cite}
+
+****
+
+###  Mobility
+
+:::{.smaller}
+> [[...] [Electric vehicles powered by low-emissions electricity]{.fragment .highlight-current-blue} offer the largest decarbonisation potential for land-based transport, on a life cycle basis (high confidence). Sustainable biofuels can offer additional mitigation benefits in land-based transport in the short and medium term (medium confidence). [Sustainable biofuels, low-emissions hydrogen, and derivatives (including synthetic fuels) can support mitigation of CO2 emissions from shipping, aviation, and heavy-duty land transport]{.fragment .highlight-current-blue} but require production process improvements and cost reductions (medium confidence). [...]]{.text-default}
+:::
+
+[@shukla2022SummaryPolicymakers 32]{.slide-cite}
+
+****
+
+### Buildings 
+
+[design for evolving needs with what already exists
+]{.fragment}
+
+[construct with low-emission materials for high efficiency using renewable energy
+]{.fragment}
+
+[optimise use and energy supply]{.fragment}
+
+[recycle and reuse]{.fragment}
+
+[@shukla2022SummaryPolicymakers 28]{.slide-cite}
+
+:::{.notes}
+>Integrated design approaches to the construction and retrofit of buildings have led to increasing examples of zero energy or zero carbon buildings in several regions. However, the low renovation rates and low ambition of retrofitted buildings have hindered the decrease of emissions. Mitigation interventions at the design stage include buildings typology, form, and multi-functionality to allow for adjusting the size of buildings to the evolving needs of their users and repurposing unused existing buildings to avoid using GHG-intensive materials and additional land. Mitigation interventions include: at the construction phase, low-emission construction materials, highly efficient building envelope and the integration of renewable energy solutions;58 at the use phase, highly efficient appliances/equipment, the optimisation of the use of buildings and their supply with low-emission energy sources; and at the disposal phase, recycling and re-using construction materials. (high confidence)
+
+[@shukla2022SummaryPolicymakers 28]
+
+>In 2014, the buildings sector accounted for 31% of total global final energy use, 54% of final electricity demand, and 8% of energy-related CO2 emissions (excluding indirect emissions due to electricity). When upstream electricity generation is taken into account, buildings were responsible for 23% of global energy-related CO2 emissions, with one-third of those from direct fossil fuel consumption (IEA, 2017a)
+.
+@https://www.ipcc.ch/sr15/chapter/chapter-2/
+:::
+
+***
+
+### Industry
+
+> [**Net zero CO2 industrial-sector emissions are possible but challenging (high confidence).** [Energy efficiency]{.fragment .highlight-current-blue} will continue to be important. [Reduced materials demand, material efficiency, and circular economy solutions]{.fragment .highlight-current-blue} can reduce the need for primary production.]{.text-default}
+
+[@pathak2022TechnicalSummary 104]{.slide-cite}
+
+:::{.notes}
+The use of steel, cement, plastics, and other materials is increasing globally, and in most regions. There are many
+sustainable options for demand management, materials efficiency, and circular material flows that can contribute
+to reduced emissions, but how these can be applied will vary across regions and different materials. These options
+have a potential for being more used in industrial practice and would need more attention from industrial policy.
+These options, as well as new production technologies, are generally not considered in recent global scenarios
+nor in national economy-wide scenarios due to relative newness. As a consequence, the mitigation potential in
+some scenarios is underestimated compared to bottom-up industry-specific models. (high confidence) {3.4, 5.3,
+Figure 5.7, 11.2, Box 11.2, 11.3, 11.4, 11.5.2, 11.6}
+
+[@shukla2022SummaryPolicymakers]
+:::
+
+
+## Clean Energy
+
+>[Reducing GHG emissions across the full energy sector requires major transitions, including a substantial [reduction in overall fossil fuel use, the deployment of low-emission energy sources, switching to alternative energy carriers, and energy efficiency and conservation]{.fragment .highlight-current-blue}. The continued installation of unabated fossil fuel infrastructure will ‘lock-in’ GHG emissions. [...]]{.text-default}
+
+[@shukla2022SummaryPolicymakers 28]{.slide-cite}
+
+# Break {.r-fit-text}
+
+## Summary {visibility="hidden"}
+
+Avoid, Shift, Improve
+
+[[Avoid, ]{.text-default} Shift, Improve]{.fragment}
+
+[@creutzig2022DemandsideSolutionsClimate]{.slide-cite}
+
+
+```{=html}
+<!-- missions reductions in CO2 from
+fossil fuels and industrial processes (CO2-FFI), due to improvements in energy intensity of GDP and
+carbon intensity of energy, have been less than emissions increases from rising global activity levels
+in industry, energy supply, transport, agriculture and buildings. (high confidence) {2.2, 2.4, 6.3, 7.2, 8.3,
+9.3, 10.1, 11.2} @https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_SummaryForPolicymakers.pdf p. 10 -->
+```
+
+# {data-menu-title="Lifestyle Changes"}
+
+>[... it is becoming increasingly apparent that far-reaching [changes in lifestyles]{.text-primary} will be required, alongside shifts in policy, service provision and technological innovation, if we are to avoid dangerous levels of global heating, ...]{.text-default}
+
+[@newell2021ScalingBehaviourChange 1]{.slide-cite}
+
+## {data-menu-title="Country Carbon Footprints"}
+
+![](../assets/country_carbon_footprints.png)
+
+[@akenji2021DegreeLifestylesFair 43]{.slide-cite}
+
+## {data-menu-title="Lifestyle Impacts"}
+
+![](https://www.kimnicholas.com/uploads/2/5/7/6/25766487/fig1full.jpg)
+
+## Consumer or producer?
+
+::: {.notes}
+Often times you hear people debate if consumers or producers should take responsibility for reducing carbon emissions.
+What do you think about this debate, motivate your answer with the criticism of @newell2021ScalingBehaviourChange that behavior is embedded in a social context.
+
+:::
+
+[Both.]{.fragment .text-success .r-fit-text}
+
+
+##
+
+![](../assets/carbon_inequality.png){fig-alt="A stacked area chart. The title reads: The richest 1% are responsible for double the carbon emissions of the poorest 50%. The figure then displays the shares of the richest 1 and 10, 40 and poorest 50%" fig-align="center"}
+
+[@gore2020ConfrontingCarbonInequality 3]{.slide-cite}
+
+
+## {.smaller}
+
+::: {.callout-warning icon="false"}
+## <i class="bi bi-book"></i> Reading Question
+
+Who do you think the "polluter elite" are?
+
+Are their lifestyles, or aspects of the lifestyles, something you find desirable?
+Why or why not?
+
+Do you think others find them desirable?
+
+If you do find them desirable, is it because of
+
+1. status,
+2. safety,
+3. accomplishment,
+4. jealousy,
+5. hedonisitic,
+6. other,
+
+reasons?
+
+:::
+
+
+
+# {data-menu-title="Policy"}
+
+>[... it is becoming increasingly apparent that far-reaching changes in lifestyles will be required, alongside [shifts in policy]{.text-primary}, service provision and technological innovation, if we are to avoid dangerous levels of global heating, ...]{.text-default}
+
+## The United Nations Framework Convention on Climate Change
+
+> [The UNFCCC entered into force on 21 March 1994. Today, it has near-universal membership. The 198 countries that have ratified the Convention are called Parties to the Convention. [Preventing “dangerous” human interference with the climate system is the ultimate aim of the UNFCCC.]{.text-primary}]{.text-default}
+
+[@WhatUnitedNations np]{.slide-cite}
+
+[Biggest achievement: The legally binding Paris Agreement 2015
+]{.fragment}
+
+## {data-menu-title="Criticism"}
+
+![](../assets/climate_stripes.jpg){width="50%" fig-alt="Composite graph of the climate stripes, showing increasing temperature and global climate conferences" fig-align="center"}
+
+## Selected Policy Options {.smaller}
+
+### Addressing Market Failures
+
+Taxes, 
+
+Emission Cap and Trade,
+
+Subsidies
+
+:::{.fragment}
+### Regulatory
+
+Choice editing
+
+Protection and conservation of nature (forest, oceans, wetlands ...)
+
+:::
+
+:::{.fragment}
+### Systemic
+
+Degrowth,
+
+Doughnut Economy
+:::
+
+## {data-menu-title="Avoid Shift Improve"}
+
+
+
+
+## Who drives climate change policy?
+
+:::{.r-stack}
+![](https://live.staticflickr.com/5599/15410290069_4bf280a5a9_5k.jpg){fig-alt="Proyecto Glaciares_Laguna Palcacocha (59)"}
+
+![](../assets/aurora-case.png){.fragment fig-alt="The header of a response from the Swedish Miljödepartment to the Aurora activists"}
+:::
+
+:::{.attribution}
+Cooperación Suiza COSUDE/ via [Flickr CC](https://www.flickr.com/photos/cosude_en_peru/15410290069/in/album-72157648912961405/)
+:::
+
+
+[Climate Change Litigation Databases](http://climatecasechart.com/)
+
+:::{.notes}
+International trend to see very active courts as organizing political support for stringent climate change policy
+
+Direct result of Paris agreement, tied to advances in attribution science (linking CO_2 emissions from polluter to effects).
+:::
+
+<!-- https://www.loc.gov/item/global-legal-monitor/2020-02-14/sweden-supreme-court-recognizes-sami-indigenous-groups-exclusive-right-to-confer-hunting-and-fishing-rights-in-sami-area/ -->
+
+# Summary
+
+![](https://www.pnas.org/cms/10.1073/pnas.1900577117/asset/599b11fe-266d-4126-a280-528c58083544/assets/graphic/pnas.1900577117fig03.jpeg){#fig-social_tipping fig-align="center"}
+
+[@otto2020SocialTippingDynamics]{.slide-cite}
+
+## Avoid Carbon Tunnel Vision
+
+![](https://www.sei.org/wp-content/uploads/2022/03/carbon-tunnel-vision.png){fig-align="center"}
+
+## References
+
+::: {#refs}
+:::
+
+## Appendix {.appendix}
+
+
+## Unit Cost of Mitigation Technologies Rapidly Declining
+
+![](../assets/ipcc-figures/SPM.3.png){fig-alt="Unit cost reductions and use in some rapidly changing mitigation technologies. The top panel shows global costs per unit of energy (USD per MWh) for some rapidly changing mitigation technologies. Solid blue lines indicate average unit cost in each year. Light blue shaded areas show the range
+between the 5th and 95th percentiles in each year. Grey shading indicates the range of unit costs for new fossil fuel (coal and gas) power in 2020 (corresponding to USD55–148 per MWh). In 2020, the levelised costs of energy (LCOE) of the four renewable energy technologies could compete with fossil fuels in many places. For batteries, costs shown are for 1 kWh of battery storage capacity; for the others, costs are LCOE, which includes installation, capital, operations, and maintenance costs per MWh of electricity produced. The literature uses LCOE because it allows consistent comparisons of cost trends across a diverse set of energy technologies to be made. However, it does not include the costs of grid integration or climate impacts. Further, LCOE does not take into account other environmental and social externalities that may modify the overall (monetary and non-monetary) costs of technologies and alter their deployment. The bottom panel shows cumulative global adoption for each technology, in GW of installed capacity for renewable energy and in millions of vehicles for battery-electric vehicles. A vertical dashed line is placed in 2010 to indicate the change since AR5. Shares of electricity produced and share of passenger vehicle fleet are indicated in text for 2020 based on provisional data, i.e., percentage of total electricity production (for PV, onshore wind, offshore wind, CSP) and of total stock of passenger vehicles (for EVs). The electricity production share reflects different capacity factors; for example, for the same amount of installed capacity, wind produces about twice as much electricity as solar PV. {2.5, 6.4} Renewable energy and battery technologies were selected as illustrative examples because they have recently shown rapid changes in costs and adoption, and because consistent data are available. Other mitigation options assessed in the report are not included as they do not meet these criteria [@ipccps 12]."}
+
+:::{.notes}
+(i) growth in the share of energy derived from low-carbon-emitting sources (including renewables, nuclear and fossil fuel with CCS) and a decline in the overall share of fossil fuels without CCS (Section 2.4.2.1), (ii) rapid decline in the carbon intensity of electricity generation simultaneous with further electrification of energy end-use (Section 2.4.2.2), and (iii) the growth in the use of CCS applied to fossil and biomass carbon in most 1.5°C pathways (Section 2.4.2.3).
+
+Nuclear power increases its share in most 1.5°C pathways with no or limited overshoot by 2050, but in some pathways both the absolute capacity and share of power from nuclear generators decrease (Table 2.15). There are large differences in nuclear power between models and across pathways (Kim et al., 2014; Rogelj et al., 2018)
+. One of the reasons for this variation is that the future deployment of nuclear can be constrained by societal preferences assumed in narratives underlying the pathways (O’Neill et al., 2017; van Vuuren et al., 2017b)
+. Some 1.5°C pathways with no or limited overshoot no longer see a role for nuclear fission by the end of the century, while others project about 95 EJ yr−1 of nuclear power in 2100 (Figure 2.15).
+:::

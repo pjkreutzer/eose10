@@ -12,6 +12,10 @@ format:
             - attribution
 ---
 
+## Summary and Motivation
+
+{{< video https://www.youtube.com/embed/qVJzQc9ELTE?si=b5gp8TozwOTQrKg5  width="100%" height="90%" >}}
+
 # {data-menu-title="Technological Solutions"}
 
 >[... it is becoming increasingly apparent that far-reaching changes in lifestyles will be required, alongside shifts in policy, service provision and [technological innovation]{.text-primary}, if we are to avoid dangerous levels of global heating, ...]{.text-default}
@@ -145,7 +149,7 @@ in industry, energy supply, transport, agriculture and buildings. (high confiden
 
 ## {data-menu-title="Lifestyle Impacts"}
 
-![](https://www.kimnicholas.com/uploads/2/5/7/6/25766487/fig1full.jpg)
+![](../assets/lifestyle-impacts.jpg)
 
 ## Consumer or producer?
 
@@ -157,13 +161,15 @@ What do you think about this debate, motivate your answer with the criticism of 
 
 [Both.]{.fragment .text-success .r-fit-text}
 
+## *bUt wHat AboUt ChinA*
+
+![@owid-contributed-most-global-co2](../assets/Cumulative-CO2-treemap.png){#fig-historical-emission}
 
 ##
 
 ![](../assets/carbon_inequality.png){fig-alt="A stacked area chart. The title reads: The richest 1% are responsible for double the carbon emissions of the poorest 50%. The figure then displays the shares of the richest 1 and 10, 40 and poorest 50%" fig-align="center"}
 
 [@gore2020ConfrontingCarbonInequality 3]{.slide-cite}
-
 
 ## {.smaller}
 
@@ -183,14 +189,12 @@ If you do find them desirable, is it because of
 2. safety,
 3. accomplishment,
 4. jealousy,
-5. hedonisitic,
+5. hedonistic,
 6. other,
 
 reasons?
 
 :::
-
-
 
 # {data-menu-title="Policy"}
 
@@ -236,21 +240,12 @@ Degrowth,
 Doughnut Economy
 :::
 
-## {data-menu-title="Avoid Shift Improve"}
-
-
-
-
 ## Who drives climate change policy?
 
 :::{.r-stack}
-![](https://live.staticflickr.com/5599/15410290069_4bf280a5a9_5k.jpg){fig-alt="Proyecto Glaciares_Laguna Palcacocha (59)"}
+![](../assets/Lake-Palcacocha-Cooperacion-Suiza-COSUDE.jpeg){fig-alt="Proyecto Glaciares_Laguna Palcacocha (59)"}
 
 ![](../assets/aurora-case.png){.fragment fig-alt="The header of a response from the Swedish Miljödepartment to the Aurora activists"}
-:::
-
-:::{.attribution}
-Cooperación Suiza COSUDE/ via [Flickr CC](https://www.flickr.com/photos/cosude_en_peru/15410290069/in/album-72157648912961405/)
 :::
 
 
@@ -266,7 +261,7 @@ Direct result of Paris agreement, tied to advances in attribution science (linki
 
 # Summary
 
-![](https://www.pnas.org/cms/10.1073/pnas.1900577117/asset/599b11fe-266d-4126-a280-528c58083544/assets/graphic/pnas.1900577117fig03.jpeg){#fig-social_tipping fig-align="center"}
+![](../assets/social-tipping-points.webp){#fig-social_tipping fig-align="center"}
 
 [@otto2020SocialTippingDynamics]{.slide-cite}
 
